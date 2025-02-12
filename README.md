@@ -1,5 +1,5 @@
 > 📝 Odločil sem se, da ta projekt objavim javno, saj je do popolnosti napisan z uporabo ChatGPT – ja, tudi ta README.md!
-
+#### ⚠ Omejitev odgovornosti: Projekt uporabljate na lastno odgovornost. Za morebitne napake, nepravilnosti ali poškodbe, nastale pri uporabi, ne odgovarjam.
 Ta repozitorij vsebuje Python aplikacijo za vizualizacijo mesečnih dohodkov in kumulativnih dohodkov v obdobju 12 in 24 mesecev.
 Prikaže datum in vrednost najvišje vrednost komulativnih dohodkov. Dodani sta še limiti na 60k in 120k, kar je meja za izstop iz sistema normiranstva od 2025 dalje.
 Projekt je popolnoma odprtokoden in omogoča enostavno uporabo tako s predhodno skompilirano main.exe datoteko kot tudi z izvornim main.py skriptom.
